@@ -1,0 +1,18 @@
+piece of code that lua executes ===> CHUNK
+- it can be file (or) single line (or) sequence of statements
+
+--- open lua interpreter
+type lua
+
+=======================================================
+
+
+Functions are first-class values in Lua; 
+so, we can manipulate them like any other value
+- Lua can call functions written in Lua & functions written in C
+
+=======================================================
+
+
+
+=======================================================
