@@ -16,7 +16,7 @@ print("type of ====> ", type(print))                        --> function
 print("type of ====> ", type(type))       --> function
 print("type of ====> ", type(true))                         --> boolean
 print("type of ====> ", type(nil))                          --> nil
-print("type of ====> ", type(type(X)))    --> string
+print("type of ====> ", type(type(x23)))    --> string
 
 
 
