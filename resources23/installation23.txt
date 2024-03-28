@@ -1,2 +1,4 @@
 sudo apt-get install lua5.4
 lua -v              ===============> check lua version
+
+which lua       ---> to show where lua is installed
