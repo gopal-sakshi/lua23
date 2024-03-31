@@ -4,8 +4,12 @@
 
 days = {"Monday", "Tuesday", "Wednesday",
 "Thursday", "Friday", "Saturday", "Sunday"}
-
 --- first element has always index 1, not 0)
+
+days_anotherWay = {day1="Monday", day2="Tuesday", day3="Wednesday",
+day4="Thursday", day5="Friday", day6="Saturday", day7="Sunday"}
+print("4th day of the week ======> ", days_anotherWay["day4"])
+
 
 print(days[1])
 print(days[7])

@@ -1,0 +1,21 @@
+ubuntu packages
+
+libreadline-dev 
+libxml2-dev 
+libxslt-dev
+libncurses5-dev
+libpcre3-dev
+libssl-dev
+perl
+make
+build-essential
+unzip
+libmaxminddb0
+libmaxminddb-dev
+mmdb-bin
+
+
+the HTTP gzip module requires the zlib library.
+thats why install these pacakges also
+
+apt-get install libpcre3 libpcre3-dev zlib1g zlib1g-dev libssl-dev

@@ -1,0 +1,13 @@
+LuaRocks
+- package manager for Lua modules.
+- allows to create/install Lua modules
+- self-contained packages called "rocks"
+
+https://luarocks.github.io/luarocks/releases/
+
+=================================================================
+
+luarocks list
+luarocks remove package23
+
+=================================================================
