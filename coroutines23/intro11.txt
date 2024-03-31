@@ -1,0 +1,14 @@
+CoRoutines
+- similar to thread
+- in the sense of multithreading
+- it has
+    a line of execution
+    its own stack
+    its own local variables
+    its own instruction pointer
+    SHARING global variables with other coroutines
+==========================================================================
+coroutines vs threads (in a multiprocesser machine)
+- a program with threads -------> several threads run concurrently
+- a program with coroutines ----> at any given time - running only one of its coroutines
+==========================================================================
