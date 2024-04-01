@@ -12,3 +12,6 @@ else
     print(n*2)
 end
 --------------------------------------------------------------
+
+-- In Lua, only nil and false are false; everything else is true, including 0 and the empty string
+
