@@ -1,0 +1,57 @@
+https://www.lua.org/pil/9.2.html
+
+9.2 – Pipes and Filters
+
+============================================================================
+producer-consumer problem ----> consumer driven design
+
+
+When a coroutine calls yield, it does not enter into a new function; 
+instead, it returns a pending call (to resume). 
+Similarly, a call to resume does not start a new function, but returns a call to yield. 
+
+This property is exactly what we need to match a send with a receive in such a way 
+that each one acts as if it were the master and the other the slave. 
+So, receive resumes the producer so that it can produce a new value; 
+and send yields the new value back to the consumer:
+
+
+In this design, the program starts calling the consumer. 
+When the consumer needs an item, it resumes the producer, 
+which runs until it has an item to give to the consumer, 
+and then stops until the consumer restarts it again.
+============================================================================
+
+Unix pipes vs coroutines
+
+In pipes each task runs in a separate process, 
+with coroutines each task runs in a separate coroutine. 
+
+Pipes provide a buffer between the writer (producer) and the reader (consumer) 
+so there is some freedom in their relative speeds. 
+This is important in the context of pipes, because the cost of switching between processes is high. 
+
+With coroutines, the cost of switching between tasks is much smaller 
+(roughly the same cost of a function call), 
+so the writer and the reader can go hand in hand.
+
+Unix PIPES
+- Piped commands run concurrently
+- In Unix, a pipe passes the output of one process ====> another process
+- But processes using the pipes
+    ====> MUST have common parent process (for communication to happen between them)
+
+grep pattern very-large-file | tr a-z A-Z
+    grep is a process
+    tr is another process
+    ---> tr begins to display upper case letters even before grep finished traversing large file
+    ---> meaning, 2nd process is already running even before 1st process is finished execution
+
+grep pattern very-large-file | head -n 1
+    grep is a process       (or grep is a task that runs in a process 12321)
+    head is also a process  (and head is another task that runs in process 12322)
+    head (2nd process) will print one line and finish its execution
+    but grep (1st process) will still be running
+
+SO, pipes run concurrently
+============================================================================
