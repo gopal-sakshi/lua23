@@ -9,5 +9,5 @@ page = [[
     </BODY>
 </HTML>
 ]]
-    
+
 print(page)

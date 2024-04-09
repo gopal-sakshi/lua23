@@ -1,6 +1,6 @@
 a = {}                      -- empty table
-for i=1,10                    -- create 10 new entries
-    do a[i] = i*2 
+for i=1,10 do                   -- create 10 new entries
+    a[i] = i*2
 end
 print(a[9])                 --> 18
 a["x"] = 10

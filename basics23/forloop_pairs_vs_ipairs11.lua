@@ -15,3 +15,5 @@ elseif arg[1] == "pairs" then
 else
     print("edo oka argument ivvu bhayyaaa")
 end
+
+-- RUN THIS ============> lua basics23/forloop_pairs_vs_ipairs11.lua ipairs
