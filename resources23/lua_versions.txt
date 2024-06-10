@@ -1,0 +1,18 @@
+using luaver - multiple versions of lua
+
+
+
+sudo apt-get install libreadline-dev 
+curl -fsSL https://raw.githubusercontent.com/dhavalkapil/luaver/master/install.sh | sh -s - -r v1.1.0
+
+
+
+lua -v
+luaver install 5.4.6
+luaver install 5.1.5
+
+which lua
+    /home/gopalakrishnas/.luaver/lua/5.1.5/bin/lua
+
+If luaver isnt installed 
+- check the system version of lua =====>        /usr/bin/lua -v

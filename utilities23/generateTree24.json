@@ -1,0 +1,520 @@
+{
+    "c": {
+        "computers & consumer electronics": {
+            "c": {
+                "computers & consumer electronics": {
+                    "c": {
+                        "consumer electronics": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        }
+                    },
+                    "a": {}
+                },
+                "consumer electronics": {
+                    "c": {
+                        "mp3 players": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "amazon"
+                            ]
+                        },
+                        "gps": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "electronic waste disposal": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "consumer electronic donation": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "washing machine": {
+                            "c": {},
+                            "a": [
+                                "flipkart",
+                                "adorbit",
+                                "amazon"
+                            ]
+                        },
+                        "radar detectors": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "fridge": {
+                            "c": {},
+                            "a": [
+                                "flipkart",
+                                "adorbit",
+                                "amazon"
+                            ]
+                        },
+                        "tv": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "water purifiers": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "car audio": {
+                            "c": {},
+                            "a": [
+                                "flipkart",
+                                "amazon",
+                                "adorbit"
+                            ]
+                        },
+                        "wireless devices": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "microwave oven": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "ac": {
+                            "c": {},
+                            "a": [
+                                "amazon",
+                                "adorbit"
+                            ]
+                        },
+                        "consumer electronic warranty plans": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "handheld devices": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "home audio": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "consumer electronic service": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "water heaters": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        }
+                    },
+                    "a": [
+                        "flipkart",
+                        "amazon",
+                        "adorbit"
+                    ]
+                },
+                "cameras & camera accessories": {
+                    "c": {
+                        "film cameras": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "cameras & camera accessories": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "camera accessories": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "digital cameras": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "cameras": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "camcorders": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        }
+                    },
+                    "a": {}
+                },
+                "technology & computing": {
+                    "c": {
+                        "computer certification": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "windows": {
+                            "c": {},
+                            "a": [
+                                "amazon",
+                                "adorbit"
+                            ]
+                        },
+                        "entertainment": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "email": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        }
+                    },
+                    "a": [
+                        "amazon",
+                        "adorbit"
+                    ]
+                },
+                "wearable devices": {
+                    "c": {},
+                    "a": [
+                        "adorbit",
+                        "flipkart",
+                        "amazon"
+                    ]
+                },
+                "computers": {
+                    "c": {
+                        "laptop": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "computer manufacturing": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "hosted data storage": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "computer tech support": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "technology reviews": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "computer hardware": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "computer rentals": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "technology news": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "computer accessories": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "computer consulting": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "computer repair": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "software": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        }
+                    },
+                    "a": [
+                        "adorbit",
+                        "flipkart",
+                        "amazon"
+                    ]
+                },
+                "mobiles & tablets": {
+                    "c": {
+                        "tablets": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "amazon"
+                            ]
+                        },
+                        "mobiles": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "mobiles & tablets repair": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "tablet accessories": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "unboxed gadgets": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "amazon"
+                            ]
+                        },
+                        "mobile accessories": {
+                            "c": {},
+                            "a": [
+                                "flipkart",
+                                "adorbit",
+                                "amazon"
+                            ]
+                        }
+                    },
+                    "a": [
+                        "adorbit",
+                        "flipkart",
+                        "amazon"
+                    ]
+                }
+            },
+            "a": [
+                "amazon",
+                "adorbit"
+            ]
+        },
+        "travel & tourism": {
+            "c": {
+                "vacation packages": {
+                    "c": {},
+                    "a": [
+                        "adorbit"
+                    ]
+                },
+                "travel booking services": {
+                    "c": {},
+                    "a": [
+                        "adorbit"
+                    ]
+                },
+                "travel & tourism": {
+                    "c": {
+                        "travel precautions": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        }
+                    },
+                    "a": {}
+                },
+                "tour operators": {
+                    "c": {
+                        "sightseeing tours": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        }
+                    },
+                    "a": [
+                        "adorbit"
+                    ]
+                },
+                "last minute travel": {
+                    "c": {
+                        "last minute flights": {
+                            "c": {},
+                            "a": [
+                                "cleartrip",
+                                "adorbit"
+                            ]
+                        }
+                    },
+                    "a": [
+                        "cleartrip",
+                        "adorbit"
+                    ]
+                },
+                "luggage & travel accessories": {
+                    "c": {
+                        "travel accessories": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        },
+                        "luggage": {
+                            "c": {},
+                            "a": [
+                                "adorbit",
+                                "flipkart",
+                                "amazon"
+                            ]
+                        }
+                    },
+                    "a": {}
+                },
+                "tourist attractions & destinations": {
+                    "c": {
+                        "beaches": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "theme parks": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        },
+                        "tourist attractions": {
+                            "c": {},
+                            "a": [
+                                "adorbit"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
